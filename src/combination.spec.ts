@@ -1,4 +1,4 @@
-import { combination } from '../src/combination';
+import { combination } from './combination';
 
 describe('Testing combination', () => {
   test('k = 0', () => {
